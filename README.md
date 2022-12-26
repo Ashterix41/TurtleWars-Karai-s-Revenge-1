@@ -1,1 +1,3 @@
 # TurtleWars-Karai-s-Revenge-1
+
+A text based game currently in development marking the 3rd month of my coding journey. Variables are named after the 4 main characters of the Teenage Mutant Ninja Turtles franchise. In its first iteration, game uses the Random function to determine attacks and the damage it does. Assigning attack numbers and introducing new characters are examples of further development that will result in a more engaging plot and deeper character growth. Interested collaborators could help create a decision-based gameplay like The Walking Dead game, also a permadeath mode would be a cool feature to add.
